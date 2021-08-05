@@ -7,5 +7,5 @@
 #### About
 Selenium C# Winform to download twitch clips all at once
 
-*Chrome Web Driver
-*https://clipr.xyz/
+* Chrome Web Driver
+* https://clipr.xyz/
