@@ -1,0 +1,19 @@
+C:\Users\Rohan\Documents\GitHub Project\BulkTwitchClipsDownload\Twitch Bulk Downloads\Twitch Bulk Downloads\bin\Debug\netcoreapp3.1\Twitch Bulk Downloads.exe
+C:\Users\Rohan\Documents\GitHub Project\BulkTwitchClipsDownload\Twitch Bulk Downloads\Twitch Bulk Downloads\bin\Debug\netcoreapp3.1\Twitch Bulk Downloads.deps.json
+C:\Users\Rohan\Documents\GitHub Project\BulkTwitchClipsDownload\Twitch Bulk Downloads\Twitch Bulk Downloads\bin\Debug\netcoreapp3.1\Twitch Bulk Downloads.runtimeconfig.json
+C:\Users\Rohan\Documents\GitHub Project\BulkTwitchClipsDownload\Twitch Bulk Downloads\Twitch Bulk Downloads\bin\Debug\netcoreapp3.1\Twitch Bulk Downloads.runtimeconfig.dev.json
+C:\Users\Rohan\Documents\GitHub Project\BulkTwitchClipsDownload\Twitch Bulk Downloads\Twitch Bulk Downloads\bin\Debug\netcoreapp3.1\Twitch Bulk Downloads.dll
+C:\Users\Rohan\Documents\GitHub Project\BulkTwitchClipsDownload\Twitch Bulk Downloads\Twitch Bulk Downloads\bin\Debug\netcoreapp3.1\Twitch Bulk Downloads.pdb
+C:\Users\Rohan\Documents\GitHub Project\BulkTwitchClipsDownload\Twitch Bulk Downloads\Twitch Bulk Downloads\obj\Debug\netcoreapp3.1\Twitch Bulk Downloads.csproj.AssemblyReference.cache
+C:\Users\Rohan\Documents\GitHub Project\BulkTwitchClipsDownload\Twitch Bulk Downloads\Twitch Bulk Downloads\obj\Debug\netcoreapp3.1\Twitch_Bulk_Downloads.Form1.resources
+C:\Users\Rohan\Documents\GitHub Project\BulkTwitchClipsDownload\Twitch Bulk Downloads\Twitch Bulk Downloads\obj\Debug\netcoreapp3.1\Twitch Bulk Downloads.csproj.GenerateResource.cache
+C:\Users\Rohan\Documents\GitHub Project\BulkTwitchClipsDownload\Twitch Bulk Downloads\Twitch Bulk Downloads\obj\Debug\netcoreapp3.1\Twitch Bulk Downloads.AssemblyInfoInputs.cache
+C:\Users\Rohan\Documents\GitHub Project\BulkTwitchClipsDownload\Twitch Bulk Downloads\Twitch Bulk Downloads\obj\Debug\netcoreapp3.1\Twitch Bulk Downloads.AssemblyInfo.cs
+C:\Users\Rohan\Documents\GitHub Project\BulkTwitchClipsDownload\Twitch Bulk Downloads\Twitch Bulk Downloads\obj\Debug\netcoreapp3.1\Twitch Bulk Downloads.csproj.CoreCompileInputs.cache
+C:\Users\Rohan\Documents\GitHub Project\BulkTwitchClipsDownload\Twitch Bulk Downloads\Twitch Bulk Downloads\obj\Debug\netcoreapp3.1\Twitch Bulk Downloads.dll
+C:\Users\Rohan\Documents\GitHub Project\BulkTwitchClipsDownload\Twitch Bulk Downloads\Twitch Bulk Downloads\obj\Debug\netcoreapp3.1\Twitch Bulk Downloads.pdb
+C:\Users\Rohan\Documents\GitHub Project\BulkTwitchClipsDownload\Twitch Bulk Downloads\Twitch Bulk Downloads\obj\Debug\netcoreapp3.1\Twitch Bulk Downloads.genruntimeconfig.cache
+C:\Users\Rohan\Documents\GitHub Project\BulkTwitchClipsDownload\Twitch Bulk Downloads\Twitch Bulk Downloads\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Rohan\Documents\GitHub Project\BulkTwitchClipsDownload\Twitch Bulk Downloads\Twitch Bulk Downloads\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\Rohan\Documents\GitHub Project\BulkTwitchClipsDownload\Twitch Bulk Downloads\Twitch Bulk Downloads\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Rohan\Documents\GitHub Project\BulkTwitchClipsDownload\Twitch Bulk Downloads\Twitch Bulk Downloads\obj\Debug\netcoreapp3.1\Twitch Bulk Downloads.csproj.CopyComplete
