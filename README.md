@@ -12,4 +12,4 @@ Selenium C# Winform to download twitch clips all at once
 
 
 #### Latest Screenshot
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://raw.githubusercontent.com/gamble4846/BulkTwitchClipsDownloader/main/Screenshots/Alpha%201.0.PNG)
