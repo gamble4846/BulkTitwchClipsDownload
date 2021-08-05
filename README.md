@@ -1,6 +1,6 @@
 # BulkTwitchClipsDownload
 
 #### Releases
-| Attempt | #1 | #2 |
-| :---: | :---: | :---: |
-| Seconds | 301 | 283 |
+| Name | Link |
+| :---: | :---: |
+| Apha 1.0 | 301 |
