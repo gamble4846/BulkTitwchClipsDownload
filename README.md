@@ -1,1 +1,1 @@
-# BulkTitwchClipsDownload
+# BulkTwitchClipsDownload
